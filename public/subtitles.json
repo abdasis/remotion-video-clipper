@@ -1,0 +1,1001 @@
+{
+  "fps": 29.97,
+  "clipStart": 5304.88,
+  "clipEnd": 5354.72,
+  "duration": 49.84,
+  "totalFrames": 1494,
+  "phrases": [
+    {
+      "startFrame": 0,
+      "endFrame": 49,
+      "text": "pendosa yang Tuhan suruh masuk neraka",
+      "words": [
+        {
+          "text": "pendosa",
+          "startSec": 0.0,
+          "endSec": 0.25,
+          "startFrame": 0,
+          "endFrame": 7,
+          "isHighlight": false
+        },
+        {
+          "text": "yang",
+          "startSec": 0.25,
+          "endSec": 0.5,
+          "startFrame": 7,
+          "endFrame": 15,
+          "isHighlight": false
+        },
+        {
+          "text": "Tuhan",
+          "startSec": 0.5,
+          "endSec": 0.75,
+          "startFrame": 15,
+          "endFrame": 22,
+          "isHighlight": true
+        },
+        {
+          "text": "suruh",
+          "startSec": 0.75,
+          "endSec": 1.0,
+          "startFrame": 22,
+          "endFrame": 30,
+          "isHighlight": false
+        },
+        {
+          "text": "masuk",
+          "startSec": 1.0,
+          "endSec": 1.25,
+          "startFrame": 30,
+          "endFrame": 37,
+          "isHighlight": false
+        },
+        {
+          "text": "neraka",
+          "startSec": 1.25,
+          "endSec": 1.5,
+          "startFrame": 37,
+          "endFrame": 45,
+          "isHighlight": true
+        }
+      ]
+    },
+    {
+      "startFrame": 0,
+      "endFrame": 58,
+      "text": "kemudian dia berlari, dipanggil oleh",
+      "words": [
+        {
+          "text": "kemudian",
+          "startSec": 0.0,
+          "endSec": 0.36,
+          "startFrame": 0,
+          "endFrame": 11,
+          "isHighlight": true
+        },
+        {
+          "text": "dia",
+          "startSec": 0.36,
+          "endSec": 0.72,
+          "startFrame": 11,
+          "endFrame": 22,
+          "isHighlight": false
+        },
+        {
+          "text": "berlari,",
+          "startSec": 0.72,
+          "endSec": 1.079,
+          "startFrame": 22,
+          "endFrame": 32,
+          "isHighlight": true
+        },
+        {
+          "text": "dipanggil",
+          "startSec": 1.079,
+          "endSec": 1.439,
+          "startFrame": 32,
+          "endFrame": 43,
+          "isHighlight": true
+        },
+        {
+          "text": "oleh",
+          "startSec": 1.439,
+          "endSec": 1.799,
+          "startFrame": 43,
+          "endFrame": 54,
+          "isHighlight": false
+        }
+      ]
+    },
+    {
+      "startFrame": 54,
+      "endFrame": 105,
+      "text": "Tuhan. Kenapa kamu berlari padahal kamu",
+      "words": [
+        {
+          "text": "Tuhan.",
+          "startSec": 1.799,
+          "endSec": 2.059,
+          "startFrame": 54,
+          "endFrame": 62,
+          "isHighlight": true
+        },
+        {
+          "text": "Kenapa",
+          "startSec": 2.059,
+          "endSec": 2.319,
+          "startFrame": 62,
+          "endFrame": 70,
+          "isHighlight": true
+        },
+        {
+          "text": "kamu",
+          "startSec": 2.319,
+          "endSec": 2.579,
+          "startFrame": 70,
+          "endFrame": 77,
+          "isHighlight": false
+        },
+        {
+          "text": "berlari",
+          "startSec": 2.579,
+          "endSec": 2.839,
+          "startFrame": 77,
+          "endFrame": 85,
+          "isHighlight": false
+        },
+        {
+          "text": "padahal",
+          "startSec": 2.839,
+          "endSec": 3.099,
+          "startFrame": 85,
+          "endFrame": 93,
+          "isHighlight": true
+        },
+        {
+          "text": "kamu",
+          "startSec": 3.099,
+          "endSec": 3.359,
+          "startFrame": 93,
+          "endFrame": 101,
+          "isHighlight": false
+        }
+      ]
+    },
+    {
+      "startFrame": 101,
+      "endFrame": 193,
+      "text": "mau masuk neraka? Ya, karena cukup di",
+      "words": [
+        {
+          "text": "mau",
+          "startSec": 3.359,
+          "endSec": 3.782,
+          "startFrame": 101,
+          "endFrame": 113,
+          "isHighlight": false
+        },
+        {
+          "text": "masuk",
+          "startSec": 3.782,
+          "endSec": 4.205,
+          "startFrame": 113,
+          "endFrame": 126,
+          "isHighlight": false
+        },
+        {
+          "text": "neraka?",
+          "startSec": 4.205,
+          "endSec": 4.628,
+          "startFrame": 126,
+          "endFrame": 139,
+          "isHighlight": true
+        },
+        {
+          "text": "Ya,",
+          "startSec": 4.628,
+          "endSec": 5.05,
+          "startFrame": 139,
+          "endFrame": 151,
+          "isHighlight": false
+        },
+        {
+          "text": "karena",
+          "startSec": 5.05,
+          "endSec": 5.473,
+          "startFrame": 151,
+          "endFrame": 164,
+          "isHighlight": false
+        },
+        {
+          "text": "cukup",
+          "startSec": 5.473,
+          "endSec": 5.896,
+          "startFrame": 164,
+          "endFrame": 177,
+          "isHighlight": false
+        },
+        {
+          "text": "di",
+          "startSec": 5.896,
+          "endSec": 6.319,
+          "startFrame": 177,
+          "endFrame": 189,
+          "isHighlight": false
+        }
+      ]
+    },
+    {
+      "startFrame": 189,
+      "endFrame": 280,
+      "text": "dunia saya tidak mengikuti perintahmu.",
+      "words": [
+        {
+          "text": "dunia",
+          "startSec": 6.319,
+          "endSec": 6.894,
+          "startFrame": 189,
+          "endFrame": 207,
+          "isHighlight": true
+        },
+        {
+          "text": "saya",
+          "startSec": 6.894,
+          "endSec": 7.47,
+          "startFrame": 207,
+          "endFrame": 224,
+          "isHighlight": false
+        },
+        {
+          "text": "tidak",
+          "startSec": 7.47,
+          "endSec": 8.045,
+          "startFrame": 224,
+          "endFrame": 241,
+          "isHighlight": false
+        },
+        {
+          "text": "mengikuti",
+          "startSec": 8.045,
+          "endSec": 8.621,
+          "startFrame": 241,
+          "endFrame": 258,
+          "isHighlight": true
+        },
+        {
+          "text": "perintahmu.",
+          "startSec": 8.621,
+          "endSec": 9.196,
+          "startFrame": 258,
+          "endFrame": 276,
+          "isHighlight": true
+        }
+      ]
+    },
+    {
+      "startFrame": 276,
+      "endFrame": 317,
+      "text": "Dan di akhirat ini saya",
+      "words": [
+        {
+          "text": "Dan",
+          "startSec": 9.196,
+          "endSec": 9.446,
+          "startFrame": 276,
+          "endFrame": 283,
+          "isHighlight": false
+        },
+        {
+          "text": "di",
+          "startSec": 9.446,
+          "endSec": 9.696,
+          "startFrame": 283,
+          "endFrame": 291,
+          "isHighlight": false
+        },
+        {
+          "text": "akhirat",
+          "startSec": 9.696,
+          "endSec": 9.946,
+          "startFrame": 291,
+          "endFrame": 298,
+          "isHighlight": false
+        },
+        {
+          "text": "ini",
+          "startSec": 9.946,
+          "endSec": 10.196,
+          "startFrame": 298,
+          "endFrame": 306,
+          "isHighlight": false
+        },
+        {
+          "text": "saya",
+          "startSec": 10.196,
+          "endSec": 10.446,
+          "startFrame": 306,
+          "endFrame": 313,
+          "isHighlight": false
+        }
+      ]
+    },
+    {
+      "startFrame": 310,
+      "endFrame": 368,
+      "text": "sudah yakin bahwa semua perintahmu itu",
+      "words": [
+        {
+          "text": "sudah",
+          "startSec": 10.359,
+          "endSec": 10.659,
+          "startFrame": 310,
+          "endFrame": 319,
+          "isHighlight": false
+        },
+        {
+          "text": "yakin",
+          "startSec": 10.659,
+          "endSec": 10.959,
+          "startFrame": 319,
+          "endFrame": 328,
+          "isHighlight": false
+        },
+        {
+          "text": "bahwa",
+          "startSec": 10.959,
+          "endSec": 11.259,
+          "startFrame": 328,
+          "endFrame": 337,
+          "isHighlight": false
+        },
+        {
+          "text": "semua",
+          "startSec": 11.259,
+          "endSec": 11.56,
+          "startFrame": 337,
+          "endFrame": 346,
+          "isHighlight": false
+        },
+        {
+          "text": "perintahmu",
+          "startSec": 11.56,
+          "endSec": 11.86,
+          "startFrame": 346,
+          "endFrame": 355,
+          "isHighlight": true
+        },
+        {
+          "text": "itu",
+          "startSec": 11.86,
+          "endSec": 12.16,
+          "startFrame": 355,
+          "endFrame": 364,
+          "isHighlight": false
+        }
+      ]
+    },
+    {
+      "startFrame": 364,
+      "endFrame": 390,
+      "text": "baik.",
+      "words": [
+        {
+          "text": "baik.",
+          "startSec": 12.16,
+          "endSec": 12.88,
+          "startFrame": 364,
+          "endFrame": 386,
+          "isHighlight": false
+        }
+      ]
+    },
+    {
+      "startFrame": 386,
+      "endFrame": 458,
+      "text": "Termasuk masuk ke neraka itu karunia.",
+      "words": [
+        {
+          "text": "Termasuk",
+          "startSec": 12.88,
+          "endSec": 13.26,
+          "startFrame": 386,
+          "endFrame": 397,
+          "isHighlight": true
+        },
+        {
+          "text": "masuk",
+          "startSec": 13.26,
+          "endSec": 13.64,
+          "startFrame": 397,
+          "endFrame": 409,
+          "isHighlight": false
+        },
+        {
+          "text": "ke",
+          "startSec": 13.64,
+          "endSec": 14.02,
+          "startFrame": 409,
+          "endFrame": 420,
+          "isHighlight": false
+        },
+        {
+          "text": "neraka",
+          "startSec": 14.02,
+          "endSec": 14.4,
+          "startFrame": 420,
+          "endFrame": 432,
+          "isHighlight": true
+        },
+        {
+          "text": "itu",
+          "startSec": 14.4,
+          "endSec": 14.78,
+          "startFrame": 432,
+          "endFrame": 443,
+          "isHighlight": false
+        },
+        {
+          "text": "karunia.",
+          "startSec": 14.78,
+          "endSec": 15.16,
+          "startFrame": 443,
+          "endFrame": 454,
+          "isHighlight": true
+        }
+      ]
+    },
+    {
+      "startFrame": 454,
+      "endFrame": 513,
+      "text": "Maka saya bergegas. Maka kata Tuhan,",
+      "words": [
+        {
+          "text": "Maka",
+          "startSec": 15.16,
+          "endSec": 15.467,
+          "startFrame": 454,
+          "endFrame": 464,
+          "isHighlight": false
+        },
+        {
+          "text": "saya",
+          "startSec": 15.467,
+          "endSec": 15.773,
+          "startFrame": 464,
+          "endFrame": 473,
+          "isHighlight": false
+        },
+        {
+          "text": "bergegas.",
+          "startSec": 15.773,
+          "endSec": 16.08,
+          "startFrame": 473,
+          "endFrame": 482,
+          "isHighlight": true
+        },
+        {
+          "text": "Maka",
+          "startSec": 16.08,
+          "endSec": 16.387,
+          "startFrame": 482,
+          "endFrame": 491,
+          "isHighlight": false
+        },
+        {
+          "text": "kata",
+          "startSec": 16.387,
+          "endSec": 16.693,
+          "startFrame": 491,
+          "endFrame": 500,
+          "isHighlight": false
+        },
+        {
+          "text": "Tuhan,",
+          "startSec": 16.693,
+          "endSec": 17.0,
+          "startFrame": 500,
+          "endFrame": 509,
+          "isHighlight": true
+        }
+      ]
+    },
+    {
+      "startFrame": 509,
+      "endFrame": 599,
+      "text": "\"Stop. Pergilah ke surga.\"",
+      "words": [
+        {
+          "text": "\"Stop.",
+          "startSec": 17.0,
+          "endSec": 17.71,
+          "startFrame": 509,
+          "endFrame": 531,
+          "isHighlight": true
+        },
+        {
+          "text": "Pergilah",
+          "startSec": 17.71,
+          "endSec": 18.419,
+          "startFrame": 531,
+          "endFrame": 552,
+          "isHighlight": true
+        },
+        {
+          "text": "ke",
+          "startSec": 18.419,
+          "endSec": 19.129,
+          "startFrame": 552,
+          "endFrame": 573,
+          "isHighlight": false
+        },
+        {
+          "text": "surga.\"",
+          "startSec": 19.129,
+          "endSec": 19.839,
+          "startFrame": 573,
+          "endFrame": 595,
+          "isHighlight": true
+        }
+      ]
+    },
+    {
+      "startFrame": 595,
+      "endFrame": 681,
+      "text": "Wow. Karena kamu pantas masuk surga.",
+      "words": [
+        {
+          "text": "Wow.",
+          "startSec": 19.839,
+          "endSec": 20.299,
+          "startFrame": 595,
+          "endFrame": 608,
+          "isHighlight": false
+        },
+        {
+          "text": "Karena",
+          "startSec": 20.299,
+          "endSec": 20.759,
+          "startFrame": 608,
+          "endFrame": 622,
+          "isHighlight": false
+        },
+        {
+          "text": "kamu",
+          "startSec": 20.759,
+          "endSec": 21.219,
+          "startFrame": 622,
+          "endFrame": 636,
+          "isHighlight": false
+        },
+        {
+          "text": "pantas",
+          "startSec": 21.219,
+          "endSec": 21.68,
+          "startFrame": 636,
+          "endFrame": 650,
+          "isHighlight": false
+        },
+        {
+          "text": "masuk",
+          "startSec": 21.68,
+          "endSec": 22.14,
+          "startFrame": 650,
+          "endFrame": 664,
+          "isHighlight": false
+        },
+        {
+          "text": "surga.",
+          "startSec": 22.14,
+          "endSec": 22.6,
+          "startFrame": 664,
+          "endFrame": 677,
+          "isHighlight": true
+        }
+      ]
+    },
+    {
+      "startFrame": 677,
+      "endFrame": 748,
+      "text": "He.",
+      "words": [
+        {
+          "text": "He.",
+          "startSec": 22.6,
+          "endSec": 24.839,
+          "startFrame": 677,
+          "endFrame": 744,
+          "isHighlight": false
+        }
+      ]
+    },
+    {
+      "startFrame": 744,
+      "endFrame": 822,
+      "text": "Orang kalau",
+      "words": [
+        {
+          "text": "Orang",
+          "startSec": 24.839,
+          "endSec": 26.059,
+          "startFrame": 744,
+          "endFrame": 781,
+          "isHighlight": false
+        },
+        {
+          "text": "kalau",
+          "startSec": 26.059,
+          "endSec": 27.279,
+          "startFrame": 781,
+          "endFrame": 818,
+          "isHighlight": false
+        }
+      ]
+    },
+    {
+      "startFrame": 818,
+      "endFrame": 947,
+      "text": "mentalnya belum kaya, dipaksa hidup kaya",
+      "words": [
+        {
+          "text": "mentalnya",
+          "startSec": 27.279,
+          "endSec": 27.977,
+          "startFrame": 818,
+          "endFrame": 838,
+          "isHighlight": true
+        },
+        {
+          "text": "belum",
+          "startSec": 27.977,
+          "endSec": 28.675,
+          "startFrame": 838,
+          "endFrame": 859,
+          "isHighlight": false
+        },
+        {
+          "text": "kaya,",
+          "startSec": 28.675,
+          "endSec": 29.372,
+          "startFrame": 859,
+          "endFrame": 880,
+          "isHighlight": false
+        },
+        {
+          "text": "dipaksa",
+          "startSec": 29.372,
+          "endSec": 30.07,
+          "startFrame": 880,
+          "endFrame": 901,
+          "isHighlight": false
+        },
+        {
+          "text": "hidup",
+          "startSec": 30.07,
+          "endSec": 30.768,
+          "startFrame": 901,
+          "endFrame": 922,
+          "isHighlight": true
+        },
+        {
+          "text": "kaya",
+          "startSec": 30.768,
+          "endSec": 31.466,
+          "startFrame": 922,
+          "endFrame": 943,
+          "isHighlight": false
+        }
+      ]
+    },
+    {
+      "startFrame": 943,
+      "endFrame": 1006,
+      "text": "itu",
+      "words": [
+        {
+          "text": "itu",
+          "startSec": 31.466,
+          "endSec": 33.44,
+          "startFrame": 943,
+          "endFrame": 1002,
+          "isHighlight": false
+        }
+      ]
+    },
+    {
+      "startFrame": 1002,
+      "endFrame": 1104,
+      "text": "yang ada minimal norak maksimal sombong.",
+      "words": [
+        {
+          "text": "yang",
+          "startSec": 33.44,
+          "endSec": 33.984,
+          "startFrame": 1002,
+          "endFrame": 1019,
+          "isHighlight": false
+        },
+        {
+          "text": "ada",
+          "startSec": 33.984,
+          "endSec": 34.529,
+          "startFrame": 1019,
+          "endFrame": 1035,
+          "isHighlight": false
+        },
+        {
+          "text": "minimal",
+          "startSec": 34.529,
+          "endSec": 35.073,
+          "startFrame": 1035,
+          "endFrame": 1051,
+          "isHighlight": false
+        },
+        {
+          "text": "norak",
+          "startSec": 35.073,
+          "endSec": 35.617,
+          "startFrame": 1051,
+          "endFrame": 1067,
+          "isHighlight": false
+        },
+        {
+          "text": "maksimal",
+          "startSec": 35.617,
+          "endSec": 36.162,
+          "startFrame": 1067,
+          "endFrame": 1084,
+          "isHighlight": true
+        },
+        {
+          "text": "sombong.",
+          "startSec": 36.162,
+          "endSec": 36.706,
+          "startFrame": 1084,
+          "endFrame": 1100,
+          "isHighlight": true
+        }
+      ]
+    },
+    {
+      "startFrame": 1159,
+      "endFrame": 1226,
+      "text": "Saya pernah ditanya",
+      "words": [
+        {
+          "text": "Saya",
+          "startSec": 38.68,
+          "endSec": 39.373,
+          "startFrame": 1159,
+          "endFrame": 1180,
+          "isHighlight": false
+        },
+        {
+          "text": "pernah",
+          "startSec": 39.373,
+          "endSec": 40.066,
+          "startFrame": 1180,
+          "endFrame": 1201,
+          "isHighlight": false
+        },
+        {
+          "text": "ditanya",
+          "startSec": 40.066,
+          "endSec": 40.759,
+          "startFrame": 1201,
+          "endFrame": 1222,
+          "isHighlight": false
+        }
+      ]
+    },
+    {
+      "startFrame": 1222,
+      "endFrame": 1244,
+      "text": "lucu.",
+      "words": [
+        {
+          "text": "lucu.",
+          "startSec": 40.759,
+          "endSec": 41.359,
+          "startFrame": 1222,
+          "endFrame": 1240,
+          "isHighlight": false
+        }
+      ]
+    },
+    {
+      "startFrame": 1238,
+      "endFrame": 1323,
+      "text": "Pertanyaan yang sama.",
+      "words": [
+        {
+          "text": "Pertanyaan",
+          "startSec": 41.319,
+          "endSec": 42.213,
+          "startFrame": 1238,
+          "endFrame": 1265,
+          "isHighlight": true
+        },
+        {
+          "text": "yang",
+          "startSec": 42.213,
+          "endSec": 43.106,
+          "startFrame": 1265,
+          "endFrame": 1292,
+          "isHighlight": false
+        },
+        {
+          "text": "sama.",
+          "startSec": 43.106,
+          "endSec": 44.0,
+          "startFrame": 1292,
+          "endFrame": 1319,
+          "isHighlight": false
+        }
+      ]
+    },
+    {
+      "startFrame": 1319,
+      "endFrame": 1397,
+      "text": "Kalau Tuhan maha baik,",
+      "words": [
+        {
+          "text": "Kalau",
+          "startSec": 44.0,
+          "endSec": 44.62,
+          "startFrame": 1319,
+          "endFrame": 1337,
+          "isHighlight": false
+        },
+        {
+          "text": "Tuhan",
+          "startSec": 44.62,
+          "endSec": 45.24,
+          "startFrame": 1337,
+          "endFrame": 1356,
+          "isHighlight": true
+        },
+        {
+          "text": "maha",
+          "startSec": 45.24,
+          "endSec": 45.86,
+          "startFrame": 1356,
+          "endFrame": 1374,
+          "isHighlight": false
+        },
+        {
+          "text": "baik,",
+          "startSec": 45.86,
+          "endSec": 46.48,
+          "startFrame": 1374,
+          "endFrame": 1393,
+          "isHighlight": false
+        }
+      ]
+    },
+    {
+      "startFrame": 1393,
+      "endFrame": 1431,
+      "text": "kenapa",
+      "words": [
+        {
+          "text": "kenapa",
+          "startSec": 46.48,
+          "endSec": 47.6,
+          "startFrame": 1393,
+          "endFrame": 1427,
+          "isHighlight": true
+        }
+      ]
+    },
+    {
+      "startFrame": 1427,
+      "endFrame": 1498,
+      "text": "kita diajarin orang kaya cosplay jadi",
+      "words": [
+        {
+          "text": "kita",
+          "startSec": 47.6,
+          "endSec": 47.973,
+          "startFrame": 1427,
+          "endFrame": 1438,
+          "isHighlight": false
+        },
+        {
+          "text": "diajarin",
+          "startSec": 47.973,
+          "endSec": 48.346,
+          "startFrame": 1438,
+          "endFrame": 1449,
+          "isHighlight": true
+        },
+        {
+          "text": "orang",
+          "startSec": 48.346,
+          "endSec": 48.719,
+          "startFrame": 1449,
+          "endFrame": 1460,
+          "isHighlight": false
+        },
+        {
+          "text": "kaya",
+          "startSec": 48.719,
+          "endSec": 49.093,
+          "startFrame": 1460,
+          "endFrame": 1471,
+          "isHighlight": false
+        },
+        {
+          "text": "cosplay",
+          "startSec": 49.093,
+          "endSec": 49.466,
+          "startFrame": 1471,
+          "endFrame": 1482,
+          "isHighlight": false
+        },
+        {
+          "text": "jadi",
+          "startSec": 49.466,
+          "endSec": 49.839,
+          "startFrame": 1482,
+          "endFrame": 1494,
+          "isHighlight": false
+        }
+      ]
+    },
+    {
+      "startFrame": 1494,
+      "endFrame": 1543,
+      "text": "orang miskin? Kenapa enggak orang miskin",
+      "words": [
+        {
+          "text": "orang",
+          "startSec": 49.839,
+          "endSec": 50.089,
+          "startFrame": 1494,
+          "endFrame": 1501,
+          "isHighlight": false
+        },
+        {
+          "text": "miskin?",
+          "startSec": 50.089,
+          "endSec": 50.339,
+          "startFrame": 1501,
+          "endFrame": 1509,
+          "isHighlight": false
+        },
+        {
+          "text": "Kenapa",
+          "startSec": 50.339,
+          "endSec": 50.589,
+          "startFrame": 1509,
+          "endFrame": 1516,
+          "isHighlight": true
+        },
+        {
+          "text": "enggak",
+          "startSec": 50.589,
+          "endSec": 50.839,
+          "startFrame": 1516,
+          "endFrame": 1524,
+          "isHighlight": false
+        },
+        {
+          "text": "orang",
+          "startSec": 50.839,
+          "endSec": 51.089,
+          "startFrame": 1524,
+          "endFrame": 1531,
+          "isHighlight": false
+        },
+        {
+          "text": "miskin",
+          "startSec": 51.089,
+          "endSec": 51.339,
+          "startFrame": 1531,
+          "endFrame": 1539,
+          "isHighlight": false
+        }
+      ]
+    }
+  ]
+}

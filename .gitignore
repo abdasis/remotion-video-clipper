@@ -1,0 +1,30 @@
+# dependencies
+node_modules
+.remotion
+
+# build & output
+build
+out
+dist
+*.tgz
+
+# media files & temp clips
+public/*.mp4
+public/*.webm
+public/*.raw.*
+/tmp/clipper_temp
+
+# python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv
+venv/
+
+# logs & caches
+*.log
+.cache
+*.tsbuildinfo
+.DS_Store
+.env
+.env.*
